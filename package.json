@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-site",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "MIT",
+  "description": "Simple eleventy starter site",
+  "scripts": {
+    "serve": "bunx @11ty/eleventy --serve --formats=html,njk,gif,png,jpg,webp,css,js",
+    "build": "bunx @11ty/eleventy --input=src --output=dist --formats=html,njk,gif,png,jpg,webp,css,js"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}
