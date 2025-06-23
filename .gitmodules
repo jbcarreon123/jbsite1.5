@@ -1,4 +1,4 @@
-[submodule "src/_jbsite4"]
-	path = src/_jbsite4
+[submodule "src/_includes/_jbsite4"]
+	path = src/_includes/_jbsite4
 	url = https://github.com/jbcarreon123/jbcarreon123.github.io/
 	branch = dev
